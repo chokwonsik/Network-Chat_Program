@@ -1,5 +1,4 @@
-# Network-Chat_Program
+# Network-Chat_Program (1:1 Chat)
 C#
-\n1:1 Chat
 
 July 2020 to December 2020
