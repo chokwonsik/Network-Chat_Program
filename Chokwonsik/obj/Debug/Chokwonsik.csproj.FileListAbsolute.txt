@@ -1,0 +1,9 @@
+C:\Users\조권식\source\repos\Chokwonsik\Chokwonsik\bin\Debug\Chokwonsik.exe.config
+C:\Users\조권식\source\repos\Chokwonsik\Chokwonsik\bin\Debug\Chokwonsik.exe
+C:\Users\조권식\source\repos\Chokwonsik\Chokwonsik\bin\Debug\Chokwonsik.pdb
+C:\Users\조권식\source\repos\Chokwonsik\Chokwonsik\obj\Debug\Chokwonsik.csprojAssemblyReference.cache
+C:\Users\조권식\source\repos\Chokwonsik\Chokwonsik\obj\Debug\Chokwonsik.Form1.resources
+C:\Users\조권식\source\repos\Chokwonsik\Chokwonsik\obj\Debug\Chokwonsik.Properties.Resources.resources
+C:\Users\조권식\source\repos\Chokwonsik\Chokwonsik\obj\Debug\Chokwonsik.csproj.GenerateResource.cache
+C:\Users\조권식\source\repos\Chokwonsik\Chokwonsik\obj\Debug\Chokwonsik.exe
+C:\Users\조권식\source\repos\Chokwonsik\Chokwonsik\obj\Debug\Chokwonsik.pdb
